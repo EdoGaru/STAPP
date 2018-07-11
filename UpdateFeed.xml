@@ -3,7 +3,7 @@
                 <Tasks>
                     <FileUpdateTask hotswap="true" updateTo="https://raw.githubusercontent.com/EdoGaru/STAPP/master/STAPP.exe" localPath="STAPP.exe">
                         <Conditions>
-                            <FileDateCondition what="below" timestamp="131752259675014017" />
+                            <FileDateCondition what="below" timestamp="131758264000543949" />
                         </Conditions>
                     </FileUpdateTask>
                 </Tasks>
