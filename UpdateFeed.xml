@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+            <Feed>
+                <Tasks>
+                    <FileUpdateTask hotswap="true" updateTo="https://raw.githubusercontent.com/EdoGaru/STAPP/master/STAPP.exe" localPath="STAPP.exe">
+                        <Conditions>
+                            <FileDateCondition what="below" timestamp="131752259675014017" />
+                        </Conditions>
+                    </FileUpdateTask>
+                </Tasks>
+            </Feed>
