@@ -3,7 +3,7 @@
                 <Tasks>
                     <FileUpdateTask hotswap="true" updateTo="https://raw.githubusercontent.com/EdoGaru/STAPP/master/STAPP.exe" localPath="STAPP.exe">
                         <Conditions>
-                            <FileVersionCondition what="below" version="1.0.4" />
+                            <FileVersionCondition what="below" version="1.0.5" />
                         </Conditions>
                     </FileUpdateTask>
                 </Tasks>
